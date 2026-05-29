@@ -1,0 +1,6 @@
+{
+  "name": "ArenaStage",
+  "description": "A high-engagement, audio-first social gaming platform where hosts run lightweight interactive games with real-time audio rooms and a creator micro-token economy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
